@@ -1,2 +1,16 @@
-# springboot3-security
-Sample project on how to implement JWT security based using Spring Boot3 and Spring Security 6
+# Spring Boot 3.0 Security with JWT Implementation
+This project demonstrate the implementation of security using Spring Boot 3.0 and JSON Web TOkens (JWT). It includes the following features:
+## Features
+* User registration and login with JWT authentication
+* Password encryption using BCrypt
+* Role-based authorization with Spring Security
+* Logout mechanism
+* Refresh token
+
+## Technologies
+* Spring Boot 3.0
+* Spring Security
+* JSON Web Tokens (JWT)
+* BCrypt
+* Gradle
+
